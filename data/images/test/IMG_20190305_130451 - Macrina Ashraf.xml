@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>IMG_20190305_130451 - Macrina Ashraf.jpg</filename>
+	<path>C:\Users\Mostafa\Desktop\Programming courses and Assigments\GP Dataset\Images\IMG_20190305_130451 - Macrina Ashraf.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3840</width>
+		<height>2160</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pen_tip</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1508</xmin>
+			<ymin>1563</ymin>
+			<xmax>1736</xmax>
+			<ymax>1974</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pen_tip</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1842</xmin>
+			<ymin>1280</ymin>
+			<xmax>2103</xmax>
+			<ymax>1797</ymax>
+		</bndbox>
+	</object>
+</annotation>

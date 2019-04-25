@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>_20190308_130044 - Toqa Khaled.JPG</filename>
+	<path>C:\Users\Mostafa\Desktop\Programming courses and Assigments\GP Dataset\Images\_20190308_130044 - Toqa Khaled.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4254</width>
+		<height>1705</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pen_tip</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2958</xmin>
+			<ymin>609</ymin>
+			<xmax>4077</xmax>
+			<ymax>1271</ymax>
+		</bndbox>
+	</object>
+</annotation>

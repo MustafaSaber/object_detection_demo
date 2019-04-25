@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>IMG20190306111346 - Mostafa Saeed.jpg</filename>
+	<path>C:\Users\Mostafa\Desktop\Programming courses and Assigments\GP Dataset\Images\IMG20190306111346 - Mostafa Saeed.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3456</width>
+		<height>4608</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pen_tip</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>735</xmin>
+			<ymin>1558</ymin>
+			<xmax>1966</xmax>
+			<ymax>2288</ymax>
+		</bndbox>
+	</object>
+</annotation>

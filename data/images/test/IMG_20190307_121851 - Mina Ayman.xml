@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>IMG_20190307_121851 - Mina Ayman.jpg</filename>
+	<path>C:\Users\Mostafa\Desktop\Programming courses and Assigments\GP Dataset\Images\IMG_20190307_121851 - Mina Ayman.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3120</width>
+		<height>4160</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pen_tip</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>133</xmin>
+			<ymin>1473</ymin>
+			<xmax>1453</xmax>
+			<ymax>1966</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pen_tip</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>193</xmin>
+			<ymin>1913</ymin>
+			<xmax>1433</xmax>
+			<ymax>2353</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pen_tip</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>300</xmin>
+			<ymin>2280</ymin>
+			<xmax>1646</xmax>
+			<ymax>2820</ymax>
+		</bndbox>
+	</object>
+</annotation>

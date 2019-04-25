@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>paper_pencil_250w_ds.jpg</filename>
+	<path>C:\Users\Mostafa\Desktop\Programming courses and Assigments\GP Dataset\Images\paper_pencil_250w_ds.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>260</width>
+		<height>208</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pen_tip</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>55</xmin>
+			<ymin>47</ymin>
+			<xmax>71</xmax>
+			<ymax>64</ymax>
+		</bndbox>
+	</object>
+</annotation>

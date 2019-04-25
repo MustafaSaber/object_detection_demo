@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>20190304_223735 - Mariam Zekry.jpg</filename>
+	<path>C:\Users\Mostafa\Desktop\Programming courses and Assigments\GP Dataset\Images\20190304_223735 - Mariam Zekry.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4128</width>
+		<height>2322</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pen_tip</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1226</xmin>
+			<ymin>571</ymin>
+			<xmax>1906</xmax>
+			<ymax>1226</ymax>
+		</bndbox>
+	</object>
+</annotation>

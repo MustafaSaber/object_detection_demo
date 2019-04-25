@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>20190306_031430 - Ahmad Nafei.jpg</filename>
+	<path>C:\Users\Mostafa\Desktop\Programming courses and Assigments\GP Dataset\Images\20190306_031430 - Ahmad Nafei.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>545</width>
+		<height>3061</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pen_tip</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>215</xmin>
+			<ymin>165</ymin>
+			<xmax>470</xmax>
+			<ymax>475</ymax>
+		</bndbox>
+	</object>
+</annotation>

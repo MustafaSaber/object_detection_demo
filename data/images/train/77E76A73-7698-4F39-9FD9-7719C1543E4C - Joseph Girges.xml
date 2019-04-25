@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>77E76A73-7698-4F39-9FD9-7719C1543E4C - Joseph Girges.jpeg</filename>
+	<path>C:\Users\Mostafa\Desktop\Programming courses and Assigments\GP Dataset\Images\77E76A73-7698-4F39-9FD9-7719C1543E4C - Joseph Girges.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pen_tip</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1327</xmin>
+			<ymin>1582</ymin>
+			<xmax>1933</xmax>
+			<ymax>2017</ymax>
+		</bndbox>
+	</object>
+</annotation>

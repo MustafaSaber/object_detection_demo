@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>20190306_225659 - elary mashreky.jpg</filename>
+	<path>C:\Users\Mostafa\Desktop\Programming courses and Assigments\GP Dataset\Images\20190306_225659 - elary mashreky.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3264</width>
+		<height>1836</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pen_tip</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>174</xmin>
+			<ymin>946</ymin>
+			<xmax>1022</xmax>
+			<ymax>1513</ymax>
+		</bndbox>
+	</object>
+</annotation>

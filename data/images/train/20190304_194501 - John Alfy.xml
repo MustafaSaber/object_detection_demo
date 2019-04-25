@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>20190304_194501 - John Alfy.jpg</filename>
+	<path>C:\Users\Mostafa\Desktop\Programming courses and Assigments\GP Dataset\Images\20190304_194501 - John Alfy.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4128</width>
+		<height>3096</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pen_tip</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1396</xmin>
+			<ymin>1018</ymin>
+			<xmax>1871</xmax>
+			<ymax>1433</ymax>
+		</bndbox>
+	</object>
+</annotation>

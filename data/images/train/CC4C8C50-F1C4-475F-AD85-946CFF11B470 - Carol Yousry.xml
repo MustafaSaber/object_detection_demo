@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>CC4C8C50-F1C4-475F-AD85-946CFF11B470 - Carol Yousry.jpeg</filename>
+	<path>C:\Users\Mostafa\Desktop\Programming courses and Assigments\GP Dataset\Images\CC4C8C50-F1C4-475F-AD85-946CFF11B470 - Carol Yousry.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pen_tip</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1710</xmin>
+			<ymin>211</ymin>
+			<xmax>2157</xmax>
+			<ymax>958</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>1A849DFC-2FC9-46C0-ABA8-3CF343D52B6F - Nardeen Mokhless.jpeg</filename>
+	<path>C:\Users\Mostafa\Desktop\Programming courses and Assigments\GP Dataset\Images\1A849DFC-2FC9-46C0-ABA8-3CF343D52B6F - Nardeen Mokhless.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>637</width>
+		<height>1084</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pen_tip</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>157</xmin>
+			<ymin>225</ymin>
+			<xmax>323</xmax>
+			<ymax>451</ymax>
+		</bndbox>
+	</object>
+</annotation>

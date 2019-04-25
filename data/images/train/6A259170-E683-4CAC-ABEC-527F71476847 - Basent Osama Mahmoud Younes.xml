@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>6A259170-E683-4CAC-ABEC-527F71476847 - Basent Osama Mahmoud Younes.jpeg</filename>
+	<path>C:\Users\Mostafa\Desktop\Programming courses and Assigments\GP Dataset\Images\6A259170-E683-4CAC-ABEC-527F71476847 - Basent Osama Mahmoud Younes.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pen_tip</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>986</xmin>
+			<ymin>658</ymin>
+			<xmax>1992</xmax>
+			<ymax>2094</ymax>
+		</bndbox>
+	</object>
+</annotation>

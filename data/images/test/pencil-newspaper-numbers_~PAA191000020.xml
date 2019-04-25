@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>pencil-newspaper-numbers_~PAA191000020.jpg</filename>
+	<path>C:\Users\Mostafa\Desktop\Programming courses and Assigments\GP Dataset\Images\pencil-newspaper-numbers_~PAA191000020.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>350</width>
+		<height>370</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pen_tip</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>30</xmin>
+			<ymin>156</ymin>
+			<xmax>112</xmax>
+			<ymax>226</ymax>
+		</bndbox>
+	</object>
+</annotation>

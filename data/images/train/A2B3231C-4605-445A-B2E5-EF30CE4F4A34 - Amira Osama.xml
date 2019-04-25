@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>A2B3231C-4605-445A-B2E5-EF30CE4F4A34 - Amira Osama.jpeg</filename>
+	<path>C:\Users\Mostafa\Desktop\Programming courses and Assigments\GP Dataset\Images\A2B3231C-4605-445A-B2E5-EF30CE4F4A34 - Amira Osama.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pen_tip</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1369</xmin>
+			<ymin>641</ymin>
+			<xmax>2822</xmax>
+			<ymax>1994</ymax>
+		</bndbox>
+	</object>
+</annotation>

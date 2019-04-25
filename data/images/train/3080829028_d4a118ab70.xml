@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>3080829028_d4a118ab70.jpg</filename>
+	<path>C:\Users\Mostafa\Desktop\Programming courses and Assigments\GP Dataset\Images\3080829028_d4a118ab70.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>357</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pen_tip</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>99</xmin>
+			<ymin>108</ymin>
+			<xmax>280</xmax>
+			<ymax>263</ymax>
+		</bndbox>
+	</object>
+</annotation>

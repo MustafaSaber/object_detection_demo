@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>53677029_1303104899829946_4976460112022470656_n - Seif Al-Din Mohamed.jpg</filename>
+	<path>C:\Users\Mostafa\Desktop\Programming courses and Assigments\GP Dataset\Images\53677029_1303104899829946_4976460112022470656_n - Seif Al-Din Mohamed.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>680</width>
+		<height>991</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pen_tip</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>125</xmin>
+			<ymin>344</ymin>
+			<xmax>349</xmax>
+			<ymax>519</ymax>
+		</bndbox>
+	</object>
+</annotation>

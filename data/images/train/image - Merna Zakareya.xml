@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>image - Merna Zakareya.jpg</filename>
+	<path>C:\Users\Mostafa\Desktop\Programming courses and Assigments\GP Dataset\Images\image - Merna Zakareya.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pen_tip</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1474</xmin>
+			<ymin>370</ymin>
+			<xmax>2392</xmax>
+			<ymax>1370</ymax>
+		</bndbox>
+	</object>
+</annotation>
